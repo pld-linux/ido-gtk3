@@ -2,7 +2,7 @@ Summary:	Shared functions for Ayatana Indicator Display Objects (GTK+ 3.x versio
 Summary(pl.UTF-8):	Funkcje współdzielone dla obiektów wyświetlania wskaźników Ayatana (wersja dla GTK+ 3.x)
 Name:		ido-gtk3
 Version:	12.10.2
-Release:	1
+Release:	2
 License:	LGPL v2.1 or LGPL v3
 Group:		Libraries
 #Source0Download: https://launchpad.net/ido/+download
